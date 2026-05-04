@@ -5,7 +5,7 @@ Showcasing my skills, projects, and certifications in Networking,
 Cybersecurity, and IT Support.
 
 ## 🔗 Live Site
-https://pilli-phaneendra.github.io/portfolio
+ https://pilli-phaneendra.github.io/Phaneendra-Portfolio/
 
 ## 🛠️ Built With
 - HTML5
